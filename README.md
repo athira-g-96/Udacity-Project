@@ -1,2 +1,3 @@
 # Udacity-Project
-First project for Datascience nanodegree
+
+First project for Data Science Nanodegree
