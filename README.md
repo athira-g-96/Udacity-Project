@@ -5,7 +5,7 @@ This notebook contains analysis of fertility rates of different countries from 1
 ## Contents
 * Dataset taken from kaggle.
 #### * Notebook with analysis and visualisations
-   * Data cleansing to get required data#
+   * Data cleansing to get required data
    * Data imputation using KNNImputer
    * 5 questions that was answered using various techniques like EDA and Machine Learning algorithm.
    * Visualisations to support the insights
