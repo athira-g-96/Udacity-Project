@@ -9,3 +9,5 @@ This notebook contains analysis of fertility rates of different countries from 1
    * Data imputation using KNNImputer
    * 5 questions that was answered using various techniques like EDA and Machine Learning algorithm.
    * Visualisations to support the insights
+
+* Link to Medium blogpost __(https://athiragkutty.medium.com/growing-population-and-shrinking-families-a3a04cc56b6a)__
